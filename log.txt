@@ -1,0 +1,2 @@
+Time of Error: &c
+Error: Cannot open background file - resources/seaside.pn
